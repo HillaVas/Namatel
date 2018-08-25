@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "247925041170",
+    "firebase_url": "https://namatel-54158.firebaseio.com",
+    "project_id": "namatel-54158",
+    "storage_bucket": "namatel-54158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247925041170:android:2cd68a892d72f724",
+        "android_client_info": {
+          "package_name": "com.namatel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247925041170-31d2a7083h6sjocn064oksqhqmbc62kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ETk3Xp0Y-wzgD1FvpVT16dymIrIgERc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247925041170:android:3c96cfd17aad959f",
+        "android_client_info": {
+          "package_name": "com.vas.namatel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247925041170-31d2a7083h6sjocn064oksqhqmbc62kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ETk3Xp0Y-wzgD1FvpVT16dymIrIgERc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
